@@ -55,7 +55,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 | Cell 3   | Cell 4   |
 
 ### Image
-![Sample Image](https://via.placeholder.com/150)
+![Sample Image](https://github.com/primer/brand/assets/19292210/8562a9a5-a1e4-4722-9ec7-47ebccd5901e)
 
 ### Link
 [GitHub](https://github.com)
